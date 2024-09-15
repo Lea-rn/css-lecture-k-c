@@ -1,0 +1,52 @@
+
+
+
+.abcd {
+    border: solid 5px;
+    width: 50%;
+    /* margin: 50px 20px; */
+ /* margin-top: 50px;
+ margin-bottom: 50px;
+ margin-left: 50px;
+ margin-right: 50px; */
+ /* margin: 40px 20px 60px 30px ; */
+ /* margin-top: 20px; */
+
+   
+}
+
+
+
+/*   
+ margin numb px  :  4 faces  ; 
+ margin numb1 px numb2 px : numb1 = top and bottom , numb2 = right and left
+ margin num1 px num2 px num3 px  num4 px   = top right bottom left (mongela )
+*/
+
+.abc{
+    border: solid 2px green;
+    margin-top: 30px;
+    width: 50%;
+    padding : 80px 20px 10px 30px;
+}
+
+.br {
+    margin-top: 20px;
+    width: 600px;
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: rgb(0, 9, 128) red green yellow; */
+    /* border: solid 5px green; */
+    outline: solid 5px green;
+}
+
+.link , .btn , input  {
+    font-size: 50px;
+    display: block;
+    margin-top: 30px;
+}
+/* grouping multiple selectors*/
+
+section .title {
+    color: red;
+}

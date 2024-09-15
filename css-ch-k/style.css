@@ -1,0 +1,38 @@
+/* selector {
+    propretie : value
+}
+
+
+.title1 {
+    color: #6256CA
+}
+
+
+
+.title2 {
+    color: green;
+}
+
+#abc{
+    color: aqua;
+} */
+
+h1 {
+    color: white;
+}
+
+.chiheb {
+    border: solid 5px red;
+    height: 500px;
+    background-image: url(./images/image1.jfif)  ;
+    background-repeat: no-repeat;
+    /* background-position: left top; */
+    background-size: cover;
+    /* background-size: contain; */
+     background-attachment: fixed;
+ 
+}
+
+.karim {
+    border: solid 5px ;
+}
